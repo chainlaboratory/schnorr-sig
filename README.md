@@ -1,3 +1,5 @@
+Bei mir läuft dieses Repo auf Google Colab
+
 # Schnorr Signatures
 
 [![Language grade: Python](https://img.shields.io/lgtm/grade/python/g/BITPoliTO/schnorr-sig.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/BITPoliTO/schnorr-sig/context:python)
